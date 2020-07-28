@@ -1,0 +1,36 @@
+header{
+	background:#339BEB;
+}
+h1{
+	background:#339BEB;
+	color:#040B2F;
+	font-family: Arial, "Time New Roman", serif;
+	text-align: center;
+	font-size:250%;
+}
+nav{
+	background:#339BEB;
+	color:#020202;
+	font-size:150%; 
+}
+
+h2{
+	color:#082466;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:40px;
+}
+
+section{
+	background:#7eeffb;
+}
+
+a{
+	color:#000000;
+	background:#2e747b;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+	display: none;
+}
